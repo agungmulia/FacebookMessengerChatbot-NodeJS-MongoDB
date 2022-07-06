@@ -351,9 +351,6 @@ function handleTextMessage(sender_psid, message) {
         userBirthDate = "";
         nameAlreadyFilled = "";
         finalMessage = false;
-        
-        ARRAYOF_MESSAGES = [];
-        COUNT_MESSAGES = 0;
     }
 
     //if message is a greeting or using get started button
