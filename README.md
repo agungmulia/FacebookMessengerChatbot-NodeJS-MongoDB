@@ -74,7 +74,7 @@ MongoDB is a source-available cross-platform document-oriented database program.
 - https://www.youtube.com/watch?v=x_0X3EHmIu4
 
 ## Note
-In this app I used facebook webhook with NodeJS and MongoDB as database, I also created a version that not has any database [here]() so the data happens  synchronously with the REST Endpoint. Also I want to mention that testing is coming to next update soon, I made my testing using Jest. With this app you also can test my chatbot in [Facebook](https://www.facebook.com/agungmuliachatbot/?locale=en_US) or in [Heroku app](https://agungchatbot.herokuapp.com/) that I've already deployed.
+In this app I used facebook webhook with NodeJS and MongoDB as database, I also created a version that not has any database [here]() so the data happens  synchronously with the REST Endpoint. Also I want to mention that testing is coming to next update soon, I made my testing using Jest. With this app you also can test my chatbot in [Facebook](https://www.facebook.com/agungmuliachatbot/?locale=en_US) or in [Heroku app](https://agungchatbot.herokuapp.com/) that I've already deployed. I finalized my Git and reinitialized them to look more clean, I want to use git flow, but my commits are a lot, so I choose to reinitialized them.
 
 
 
