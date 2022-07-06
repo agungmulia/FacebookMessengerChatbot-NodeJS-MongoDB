@@ -55,7 +55,7 @@ MongoDB is a source-available cross-platform document-oriented database program.
 1. If you dont have any MongoDB account, register them [here](https://account.mongodb.com/account/register?signedOut=true)
 2. In your main organization page, create a new project and name them whatever you want.
   ![image](https://user-images.githubusercontent.com/90015124/177465513-eaa0e2f6-5ff9-4d76-af6c-78161afa8694.png)
-3. At your main page, create your cluster, Choose the shared version and named your cluster.
+3. At your main page, create your cluster, Choose the shared version and name your cluster.
   ![image](https://user-images.githubusercontent.com/90015124/177465740-c1b6ff7d-6dd6-4f2c-bae6-758a779165ab.png)
 4. Create your database user with username and password.
   ![image](https://user-images.githubusercontent.com/90015124/177465881-7624b27c-4296-4796-8afc-18a92d6086e2.png)
@@ -74,7 +74,7 @@ MongoDB is a source-available cross-platform document-oriented database program.
 - https://www.youtube.com/watch?v=x_0X3EHmIu4
 
 ## Note
-In this app I used facebook webhook with NodeJS and MongoDB as database, I also created a version that not has any database [here]() so the data happens  synchronously with the REST Endpoint. Also I want to mention that testing is coming to next update soon, I made my testing using Jest. With this app you also can test my chatbot [in Facebook](https://www.facebook.com/agungmuliachatbot/?locale=en_US) or in [Heroku app](https://agungchatbot.herokuapp.com/) that I've already deployed
+In this app I used facebook webhook with NodeJS and MongoDB as database, I also created a version that not has any database [here]() so the data happens  synchronously with the REST Endpoint. Also I want to mention that testing is coming to next update soon, I made my testing using Jest. With this app you also can test my chatbot in [Facebook](https://www.facebook.com/agungmuliachatbot/?locale=en_US) or in [Heroku app](https://agungchatbot.herokuapp.com/) that I've already deployed.
 
 
 
