@@ -8,7 +8,7 @@
 ### URL/message/:id
 ![image](https://user-images.githubusercontent.com/90015124/177463202-9899519f-a628-424e-ac90-0963e4219757.png)
 
-### URL/message/summary
+### URL/summary
 ![image](https://user-images.githubusercontent.com/90015124/177463288-979c406e-f9ce-4f50-9472-c4a010d945a3.png)
 
 
